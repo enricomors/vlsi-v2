@@ -1,4 +1,4 @@
-# vlsi-v2
+# VLSI Design Problem
 A refactored version of the VLSI Design project
 
 # Usage
